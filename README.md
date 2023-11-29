@@ -1,2 +1,1 @@
-# nRF52Based-SmartWatch
-Smart Watch project based on nRF52
+# SmartWatchDA1470x-HW
